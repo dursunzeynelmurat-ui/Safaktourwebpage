@@ -1,13 +1,19 @@
-<svg width="420" height="140" viewBox="0 0 420 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Şafak Tour Logo</title>
-  <desc id="desc">Şafak Tour corporate logo in red and gray tones.</desc>
-  <rect width="420" height="140" fill="none"/>
-  <g transform="translate(16,24)">
-    <path d="M0 0h72v72H0z" fill="#BE1F24"/>
-    <path d="M13 13h22v46H13z" fill="#F5F5F5"/>
-    <path d="M35 13h24l-20 23 20 23H35L19 36z" fill="#F5F5F5"/>
-    <rect x="8" y="74" width="56" height="10" fill="#B8B3B3"/>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Şafak Tour</title>
+  <desc id="desc">Şafak Tour official red and gray logo on light gray background.</desc>
+  <rect width="256" height="256" fill="#DEDEDE"/>
+
+  <!-- Mark -->
+  <g transform="translate(31,95)">
+    <rect x="0" y="0" width="41" height="41" fill="#BE1F24"/>
+    <path d="M8 8H19V33H8z" fill="#FFFFFF"/>
+    <path d="M19 8H35L25 20.5 35 33H19L11 20.5z" fill="#FFFFFF"/>
+    <rect x="0" y="44" width="41" height="8" fill="#A9A9A9"/>
   </g>
-  <text x="102" y="69" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="500" fill="#BE1F24">safak</text>
-  <text x="196" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="300" fill="#B8B3B3">tour</text>
+
+  <!-- Wordmark -->
+  <g transform="translate(73,95)">
+    <text x="0" y="35" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500" fill="#BE1F24" letter-spacing="0.4">safak</text>
+    <text x="48" y="64" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="300" fill="#A9A9A9" letter-spacing="0.2">tour</text>
+  </g>
 </svg>
