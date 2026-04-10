@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.safaktour.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/"/>
+  </url>
+  <url>
+    <loc>https://www.safaktour.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/"/>
+  </url>
+  <url>
+    <loc>https://www.safaktour.com/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/"/>
+  </url>
+</urlset>
