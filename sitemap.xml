@@ -8,17 +8,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/"/>
   </url>
   <url>
-    <loc>https://www.safaktour.com/tr/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/"/>
+    <loc>https://www.safaktour.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/about.html"/>
   </url>
   <url>
-    <loc>https://www.safaktour.com/ar/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/"/>
+    <loc>https://www.safaktour.com/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.safaktour.com/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.safaktour.com/tr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.safaktour.com/ar/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.safaktour.com/en/services.html"/>
   </url>
+
+  <url><loc>https://www.safaktour.com/tr/</loc></url>
+  <url><loc>https://www.safaktour.com/tr/about.html</loc></url>
+  <url><loc>https://www.safaktour.com/tr/services.html</loc></url>
+  <url><loc>https://www.safaktour.com/ar/</loc></url>
+  <url><loc>https://www.safaktour.com/ar/about.html</loc></url>
+  <url><loc>https://www.safaktour.com/ar/services.html</loc></url>
 </urlset>
