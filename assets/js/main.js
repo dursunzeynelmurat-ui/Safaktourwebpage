@@ -1,6 +1,20 @@
 (function () {
+  const body = document.body;
+  const header = document.querySelector('.site-header');
   const menuBtn = document.querySelector('.menu-btn');
   const navList = document.querySelector('.nav-list');
+  const heroMedia = document.querySelector('.hero-media');
+
+  const onScroll = function () {
+    const y = window.scrollY;
+    if (header) header.classList.toggle('scrolled', y > 12);
+    if (heroMedia) {
+      const offset = Math.max(-36, y * -0.08);
+      heroMedia.style.setProperty('--parallax', offset + 'px');
+    }
+  };
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
 
   function closeMenu() {
     if (!navList || !menuBtn) return;
